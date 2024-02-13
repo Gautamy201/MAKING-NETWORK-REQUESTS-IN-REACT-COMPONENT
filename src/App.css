@@ -1,0 +1,19 @@
+body{
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+button{
+  position: sticky;
+  left: 50%;
+  transform: translate(-50%,0%);
+  padding: 5px 20px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: green;
+  color: whitesmoke;
+}
+.display{
+  margin-top: 20px;
+}
